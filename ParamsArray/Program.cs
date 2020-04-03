@@ -22,7 +22,7 @@ namespace ParamsArray
             {
                 _sentence = Console.ReadLine();
                 Console.WriteLine(_sentence.ToLower());
-                Console.WriteLine("Do you need any more help at this time since I am testing a branch");
+                Console.WriteLine("Do you need any more help at this time since I am testing a branch so lets see what happens");
                 _answer = Console.ReadLine(); 
 
 
